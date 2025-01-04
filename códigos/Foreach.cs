@@ -22,9 +22,9 @@ public class NewBehaviourScript : MonoBehaviour
             Debug.Log(elemento);
         }
         //  or
-        //for (int i - 0; i < nomesNPC.Length; if++)
+        //for (int i = 0; i < nomesNPC.Length; i++) (valor inical; condição; incremento)
         //{
-        //    Debug.Log(elemento);
+        //    Debug.Log(i);
         //}
     }
 

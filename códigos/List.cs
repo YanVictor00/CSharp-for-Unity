@@ -17,7 +17,9 @@ public class NewBehaviourScript : MonoBehaviour
        /* tiposInimigos.Insert(0, "Roxes");
         tiposInimigos.Clear();
         tiposInimigos.Toarray();
-        if(tiposInimigos.Contains("Ghost")){Debug.Log("there's a ghost here")};
+        if(tiposInimigos.Contains("Ghost")){
+            Debug.Log("there's a ghost here");
+        }
         */
     }
 
